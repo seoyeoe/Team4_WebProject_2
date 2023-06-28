@@ -1,4 +1,4 @@
-package com.kosa.scheduleManagement.filter;
+package com.kosa.scheduleManagement.global.filter;
 
 import javax.servlet.*;
 import javax.servlet.annotation.WebFilter;
