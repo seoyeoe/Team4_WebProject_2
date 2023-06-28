@@ -1,7 +1,6 @@
-package com.kosa.scheduleManagement.dto;
+package com.kosa.scheduleManagement.global.dto;
 
 import lombok.Data;
-import org.mybatis.spring.annotation.MapperScan;
 
 @Data
 public class Todo {

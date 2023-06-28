@@ -26,7 +26,7 @@
 	<context:component-scan base-package="com.kosa.scheduleManagement" />
 	<context:component-scan base-package="com.kosa.scheduleManagement.controller" />
 	<context:component-scan base-package="com.kosa.scheduleManagement.service" />
-	<context:component-scan base-package="com.kosa.scheduleManagement.dao" />
+	<context:component-scan base-package="com.kosa.scheduleManagement.global.dao" />
 	
 	
 </beans:beans>
