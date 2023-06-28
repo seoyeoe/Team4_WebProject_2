@@ -1,4 +1,4 @@
-package com.kosa.scheduleManagement.dto;
+package com.kosa.scheduleManagement.global.dto;
 
 import lombok.Data;
 

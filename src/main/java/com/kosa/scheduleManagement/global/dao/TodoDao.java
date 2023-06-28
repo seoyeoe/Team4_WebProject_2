@@ -1,7 +1,6 @@
-package com.kosa.scheduleManagement.dao;
+package com.kosa.scheduleManagement.global.dao;
 
-import com.kosa.scheduleManagement.dto.Todo;
-import org.mybatis.spring.annotation.MapperScan;
+import com.kosa.scheduleManagement.global.dto.Todo;
 
 import java.sql.SQLException;
 import java.util.List;
